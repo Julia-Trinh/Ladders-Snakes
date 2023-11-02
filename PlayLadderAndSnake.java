@@ -1,17 +1,8 @@
 //-----------------------------------------
-// Assignment 1
-// Question: II
-// Written by: Julia Trinh 40245980
+// Written by: Julia Trinh
 //-----------------------------------------
 
 import java.util.Scanner;
-
-/**
- * Name and ID   Julia Trinh 40245980
- * COMP249
- * Assignment 1
- * Due Date      February 3, 2023
- */
 
 /**
  * The PlayLadderAndSnake class is where the user can play the game.
