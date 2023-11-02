@@ -1,17 +1,8 @@
 //-----------------------------------------
-// Assignment 1
-// Question: I
-// Written by: Julia Trinh 40245980
+// Written by: Julia Trinh
 //-----------------------------------------
 
 import java.lang.Math;
-
-/**
- * Name and ID   Julia Trinh 40245980
- * COMP249
- * Assignment 1
- * Due Date      February 3, 2023
- */
 
 /**
  * The LadderAndSnake class implements methods to play the game of ladder and snake
